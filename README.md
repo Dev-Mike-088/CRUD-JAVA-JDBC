@@ -1,8 +1,8 @@
-# CRUD Java com JDBC 🚀
+# CRUD Java com JDBC 
 
 Sistema simples de CRUD com Java + MySQL utilizando JDBC.
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 - Cadastro de usuários
 - Listagem de usuários
@@ -10,14 +10,14 @@ Sistema simples de CRUD com Java + MySQL utilizando JDBC.
 - Deleção de usuários
 - Criação de pedidos
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - Java
 - MySQL
 - JDBC
 - IntelliJ IDEA
 
-## 🔧 Como rodar o projeto
+##  Como rodar o projeto
 
 ### 1. Configure as variáveis de ambiente
 
@@ -35,13 +35,13 @@ export DB_PASSWORD=sua_senha
 
 ---
 
-### 2. Execute o projeto
+###  Execute o projeto
 
 Rode a classe `Main.java`
 
 ---
 
-## 🧠 Estrutura do projeto
+##  Estrutura do projeto
 
 - `User` → entidade
 - `UserDAO` → acesso ao banco
@@ -51,7 +51,7 @@ Rode a classe `Main.java`
 
 ---
 
-## 📚 Aprendizados
+##  Aprendizados
 
 - JDBC na prática
 - CRUD completo
@@ -61,6 +61,6 @@ Rode a classe `Main.java`
 
 ---
 
-## 🚀 Autor
+##  Autor
 
-Mike 💻
+Mikael Machado
